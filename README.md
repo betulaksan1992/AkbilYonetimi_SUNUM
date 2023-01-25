@@ -1,6 +1,6 @@
 # AkbilYonetimi_SUNUM
 
-Merhaba, Akbil Yönetimi Projesini İstanbul - Beşiktaş Wissen Akademi'de Eğitmenlik yaptığım süreçte 302 sınıfım ile yazdık. Akbil Yönetimi Projesi mevcuttaki İBB'nin uygulamasundan esinlenilerek yazdığımız bir masaüstü projedir. İBB'nin çok kapsamlı bir projesini yakınsamak istedik ancak belirli kurs sürecimizdeki zaman koşullarına göre yazdık. Yani eksiği çoook :)
+Merhaba, Akbil Yönetimi Projesini İstanbul - Beşiktaş Wissen Akademi'de Eğitmenlik yaptığım süreçte 302 sınıfım ile yazdık. Akbil Yönetimi Projesi mevcuttaki İBB'nin uygulamasından esinlenilerek yazdığımız bir masaüstü projedir. İBB'nin çok kapsamlı bir projesini yakınsamak istedik ancak belirli kurs sürecimizdeki zaman koşullarına göre yazdık.
 Bu proje ile amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
 
 Bu projenin tüm hakları ben Betül Akşan'a,  302 sabah grubu sınıfımın öğrencilerine aittir. Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
